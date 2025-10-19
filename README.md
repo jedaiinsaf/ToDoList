@@ -9,5 +9,4 @@ A simple To-Do List web application using HTML, CSS, and JavaScript.
 1. Open `index.html` in your browser.
 2. Type a task and click "Add".
 
-## Folder Structure
 
